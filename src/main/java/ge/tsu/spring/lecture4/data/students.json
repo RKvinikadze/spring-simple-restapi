@@ -1,0 +1,14 @@
+[
+  {
+    "id": "b77bba4d-db17-456d-bd58-33e8c5bd0745",
+    "name": "student1",
+    "surname": "surname1",
+    "age": 20
+  },
+  {
+    "id": "1190777d-4d20-4276-9155-9a65561ce36a",
+    "name": "student2",
+    "surname": "surname2",
+    "age": 21
+  }
+]
